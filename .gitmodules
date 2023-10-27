@@ -1,0 +1,18 @@
+[submodule "resource-service"]
+	path = resource-service
+	url = https://github.com/khalegjr/resource-service.git
+[submodule "albums-service"]
+	path = albums-service
+	url = https://github.com/khalegjr/albums-service.git
+[submodule "discovery-service"]
+	path = discovery-service
+	url = https://github.com/khalegjr/discovery-service.git
+[submodule "gateway-service"]
+	path = gateway-service
+	url = https://github.com/khalegjr/gateway-service.git
+[submodule "photos-service"]
+	path = photos-service
+	url = https://github.com/khalegjr/photos-service.git
+[submodule "photo-app-web-client"]
+	path = photo-app-web-client
+	url = https://github.com/khalegjr/photo-app-web-client.git
